@@ -1,0 +1,21 @@
+{
+  "Agents": {
+    "Storage capacity (kW)": 10,
+    "Reference capacity (kW)": 10,
+    "Storage efficiency": 1.0,
+    "Prosumers": {
+      "Each bus": 1000
+    },
+    "Consumers": {
+      "Each bus": 2000
+    },
+    "Representatives": {
+      "Each bus": 1
+    }
+  },
+  "Planner": {
+    "Index": 0,
+    "Tax period (d)": 1,
+    "Active": true
+  }
+}

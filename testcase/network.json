@@ -1,0 +1,1128 @@
+{
+  "Parameters": {
+    "Total time (d)": 1,
+    "Time step (h)": 2
+  },
+  "Buses": {
+    "b1": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9935453,
+      "Voltage angle": -1.119907,
+      "Base KV": 345
+    },
+    "b2": {
+      "P Load (kW)": 60.7,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.991225,
+      "Voltage angle": -3.927372,
+      "Base KV": 345
+    },
+    "b3": {
+      "P Load (kW)": 59.39,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9845477,
+      "Voltage angle": -4.731145,
+      "Base KV": 345
+    },
+    "b4": {
+      "P Load (kW)": 22.47,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9787999,
+      "Voltage angle": -5.74587,
+      "Base KV": 345
+    },
+    "b5": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9889847,
+      "Voltage angle": -2.069792,
+      "Base KV": 345
+    },
+    "b6": {
+      "P Load (kW)": 27.46,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9812064,
+      "Voltage angle": -5.52816,
+      "Base KV": 345
+    },
+    "b7": {
+      "P Load (kW)": 37.01,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9805826,
+      "Voltage angle": -5.671337,
+      "Base KV": 345
+    },
+    "b8": {
+      "P Load (kW)": 65.1,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9786187,
+      "Voltage angle": -5.702381,
+      "Base KV": 345
+    },
+    "b9": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9867678,
+      "Voltage angle": -2.548359,
+      "Base KV": 345
+    },
+    "b10": {
+      "P Load (kW)": 37.76,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.980941,
+      "Voltage angle": -5.65196,
+      "Base KV": 345
+    },
+    "b11": {
+      "P Load (kW)": 65.55,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9749115,
+      "Voltage angle": -6.522955,
+      "Base KV": 345
+    },
+    "b12": {
+      "P Load (kW)": 54.01,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9773269,
+      "Voltage angle": -6.198354,
+      "Base KV": 345
+    },
+    "b13": {
+      "P Load (kW)": 59.24,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.978953,
+      "Voltage angle": -6.094816,
+      "Base KV": 345
+    },
+    "b14": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9837641,
+      "Voltage angle": -3.136205,
+      "Base KV": 345
+    },
+    "b15": {
+      "P Load (kW)": 60.9,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9786311,
+      "Voltage angle": -6.029763,
+      "Base KV": 345
+    },
+    "b16": {
+      "P Load (kW)": 23.83,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9821866,
+      "Voltage angle": -6.456032,
+      "Base KV": 345
+    },
+    "b17": {
+      "P Load (kW)": 12.04,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9754957,
+      "Voltage angle": -6.981904,
+      "Base KV": 345
+    },
+    "b18": {
+      "P Load (kW)": 36.32,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9759604,
+      "Voltage angle": -7.12115,
+      "Base KV": 345
+    },
+    "b19": {
+      "P Load (kW)": 48.6,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.991304,
+      "Voltage angle": -3.514221,
+      "Base KV": 345
+    },
+    "b20": {
+      "P Load (kW)": 64.95,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9896603,
+      "Voltage angle": -1.963951,
+      "Base KV": 345
+    },
+    "b21": {
+      "P Load (kW)": 48.34,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9799422,
+      "Voltage angle": -5.268157,
+      "Base KV": 345
+    },
+    "b22": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9963974,
+      "Voltage angle": -0.844548,
+      "Base KV": 345
+    },
+    "b23": {
+      "P Load (kW)": 86.75,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 1.0,
+      "Voltage angle": -2.106015,
+      "Base KV": 345
+    },
+    "b24": {
+      "P Load (kW)": 46.58,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.993402,
+      "Voltage angle": -3.706851,
+      "Base KV": 345
+    },
+    "b25": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9966141,
+      "Voltage angle": -0.528763,
+      "Base KV": 345
+    },
+    "b26": {
+      "P Load (kW)": 75.28,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9951046,
+      "Voltage angle": -3.596866,
+      "Base KV": 345
+    },
+    "b27": {
+      "P Load (kW)": 3.95,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 1.0034164,
+      "Voltage angle": 1.362694,
+      "Base KV": 345
+    },
+    "b28": {
+      "P Load (kW)": 8.82,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 1.0,
+      "Voltage angle": 0.234055,
+      "Base KV": 345
+    },
+    "b29": {
+      "P Load (kW)": 7.7,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9953834,
+      "Voltage angle": -0.097274,
+      "Base KV": 345
+    },
+    "b30": {
+      "P Load (kW)": 49.03,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9957983,
+      "Voltage angle": -0.422344,
+      "Base KV": 345
+    },
+    "b31": {
+      "P Load (kW)": 9.62,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.995215,
+      "Voltage angle": -2.101776,
+      "Base KV": 345
+    },
+    "b32": {
+      "P Load (kW)": 6.67,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9912167,
+      "Voltage angle": -1.321157,
+      "Base KV": 345
+    },
+    "b33": {
+      "P Load (kW)": 58.22,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.995652,
+      "Voltage angle": -3.050368,
+      "Base KV": 345
+    },
+    "b34": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 1.0,
+      "Voltage angle": -2.084231,
+      "Base KV": 345
+    },
+    "b35": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 1.0,
+      "Voltage angle": 0.37639,
+      "Base KV": 345
+    },
+    "b36": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 0.9965724,
+      "Voltage angle": -3.565242,
+      "Base KV": 345
+    },
+    "b37": {
+      "P Load (kW)": 0.0,
+      "Q Load (kVar)": 0.0,
+      "Maximum voltage (p.u.)": 1.1,
+      "Minimum voltage (p.u.)": 0.9,
+      "Voltage magnitude": 1.0,
+      "Voltage angle": 0.25143,
+      "Base KV": 345
+    }
+  },
+  "Transmission lines": {
+    "l1": {
+      "Source bus": "b1",
+      "Target bus": "b2",
+      "Reactance (ohms)": 0.00484,
+      "Susceptance (S)": 0.123766,
+      "Normal flow limit (MW)": 123.2
+    },
+    "l2": {
+      "Source bus": "b1",
+      "Target bus": "b2",
+      "Reactance (ohms)": 0.00484,
+      "Susceptance (S)": 0.123766,
+      "Normal flow limit (MW)": 123.2
+    },
+    "l3": {
+      "Source bus": "b1",
+      "Target bus": "b2",
+      "Reactance (ohms)": 0.00484,
+      "Susceptance (S)": 0.123766,
+      "Normal flow limit (MW)": 123.2
+    },
+    "l4": {
+      "Source bus": "b1",
+      "Target bus": "b5",
+      "Reactance (ohms)": 0.0034,
+      "Susceptance (S)": 0.020913,
+      "Normal flow limit (MW)": 232.8
+    },
+    "l5": {
+      "Source bus": "b1",
+      "Target bus": "b5",
+      "Reactance (ohms)": 0.0034,
+      "Susceptance (S)": 0.020913,
+      "Normal flow limit (MW)": 232.8
+    },
+    "l6": {
+      "Source bus": "b1",
+      "Target bus": "b22",
+      "Reactance (ohms)": 0.00374,
+      "Susceptance (S)": 0.024173,
+      "Normal flow limit (MW)": 177.8
+    },
+    "l7": {
+      "Source bus": "b1",
+      "Target bus": "b25",
+      "Reactance (ohms)": 0.00289,
+      "Susceptance (S)": 0.015798,
+      "Normal flow limit (MW)": 217.0
+    },
+    "l8": {
+      "Source bus": "b1",
+      "Target bus": "b25",
+      "Reactance (ohms)": 0.00289,
+      "Susceptance (S)": 0.015798,
+      "Normal flow limit (MW)": 217.0
+    },
+    "l9": {
+      "Source bus": "b1",
+      "Target bus": "b35",
+      "Reactance (ohms)": 0.0108,
+      "Susceptance (S)": 0.041922,
+      "Normal flow limit (MW)": 281.6
+    },
+    "l10": {
+      "Source bus": "b1",
+      "Target bus": "b35",
+      "Reactance (ohms)": 0.0108,
+      "Susceptance (S)": 0.041922,
+      "Normal flow limit (MW)": 281.6
+    },
+    "l11": {
+      "Source bus": "b2",
+      "Target bus": "b4",
+      "Reactance (ohms)": 0.04296,
+      "Susceptance (S)": 0.079357,
+      "Normal flow limit (MW)": 66.8
+    },
+    "l12": {
+      "Source bus": "b2",
+      "Target bus": "b6",
+      "Reactance (ohms)": 0.02689,
+      "Susceptance (S)": 0.0586,
+      "Normal flow limit (MW)": 82.0
+    },
+    "l13": {
+      "Source bus": "b2",
+      "Target bus": "b6",
+      "Reactance (ohms)": 0.02689,
+      "Susceptance (S)": 0.0586,
+      "Normal flow limit (MW)": 82.0
+    },
+    "l14": {
+      "Source bus": "b2",
+      "Target bus": "b7",
+      "Reactance (ohms)": 0.02754,
+      "Susceptance (S)": 0.075691,
+      "Normal flow limit (MW)": 77.8
+    },
+    "l15": {
+      "Source bus": "b2",
+      "Target bus": "b21",
+      "Reactance (ohms)": 0.03646,
+      "Susceptance (S)": 0.077337,
+      "Normal flow limit (MW)": 94.8
+    },
+    "l16": {
+      "Source bus": "b2",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.03262,
+      "Susceptance (S)": 0.08103,
+      "Normal flow limit (MW)": 101.3
+    },
+    "l17": {
+      "Source bus": "b2",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.03262,
+      "Susceptance (S)": 0.08103,
+      "Normal flow limit (MW)": 101.3
+    },
+    "l18": {
+      "Source bus": "b2",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.03262,
+      "Susceptance (S)": 0.08103,
+      "Normal flow limit (MW)": 101.3
+    },
+    "l19": {
+      "Source bus": "b2",
+      "Target bus": "b26",
+      "Reactance (ohms)": 0.03049,
+      "Susceptance (S)": 0.066116,
+      "Normal flow limit (MW)": 61.7
+    },
+    "l20": {
+      "Source bus": "b2",
+      "Target bus": "b26",
+      "Reactance (ohms)": 0.03049,
+      "Susceptance (S)": 0.066116,
+      "Normal flow limit (MW)": 61.7
+    },
+    "l21": {
+      "Source bus": "b3",
+      "Target bus": "b6",
+      "Reactance (ohms)": 0.01478,
+      "Susceptance (S)": 0.03669,
+      "Normal flow limit (MW)": 85.0
+    },
+    "l22": {
+      "Source bus": "b3",
+      "Target bus": "b6",
+      "Reactance (ohms)": 0.01478,
+      "Susceptance (S)": 0.03669,
+      "Normal flow limit (MW)": 85.0
+    },
+    "l23": {
+      "Source bus": "b3",
+      "Target bus": "b16",
+      "Reactance (ohms)": 0.02383,
+      "Susceptance (S)": 0.063585,
+      "Normal flow limit (MW)": 82.8
+    },
+    "l24": {
+      "Source bus": "b3",
+      "Target bus": "b19",
+      "Reactance (ohms)": 0.01382,
+      "Susceptance (S)": 0.031229,
+      "Normal flow limit (MW)": 91.6
+    },
+    "l25": {
+      "Source bus": "b3",
+      "Target bus": "b19",
+      "Reactance (ohms)": 0.01382,
+      "Susceptance (S)": 0.031229,
+      "Normal flow limit (MW)": 91.6
+    },
+    "l26": {
+      "Source bus": "b3",
+      "Target bus": "b19",
+      "Reactance (ohms)": 0.01382,
+      "Susceptance (S)": 0.031229,
+      "Normal flow limit (MW)": 91.6
+    },
+    "l27": {
+      "Source bus": "b3",
+      "Target bus": "b21",
+      "Reactance (ohms)": 0.02423,
+      "Susceptance (S)": 0.047508,
+      "Normal flow limit (MW)": 49.0
+    },
+    "l28": {
+      "Source bus": "b4",
+      "Target bus": "b13",
+      "Reactance (ohms)": 0.01214,
+      "Susceptance (S)": 0.038486,
+      "Normal flow limit (MW)": 53.2
+    },
+    "l29": {
+      "Source bus": "b5",
+      "Target bus": "b6",
+      "Reactance (ohms)": 0.00479,
+      "Susceptance (S)": 0.139559,
+      "Normal flow limit (MW)": 198.0
+    },
+    "l30": {
+      "Source bus": "b5",
+      "Target bus": "b9",
+      "Reactance (ohms)": 0.00229,
+      "Susceptance (S)": 0.012058,
+      "Normal flow limit (MW)": 170.7
+    },
+    "l31": {
+      "Source bus": "b5",
+      "Target bus": "b14",
+      "Reactance (ohms)": 0.00574,
+      "Susceptance (S)": 0.038815,
+      "Normal flow limit (MW)": 162.5
+    },
+    "l32": {
+      "Source bus": "b7",
+      "Target bus": "b6",
+      "Reactance (ohms)": 0.004,
+      "Susceptance (S)": 0.01,
+      "Normal flow limit (MW)": 40.2
+    },
+    "l33": {
+      "Source bus": "b7",
+      "Target bus": "b6",
+      "Reactance (ohms)": 0.004,
+      "Susceptance (S)": 0.01,
+      "Normal flow limit (MW)": 40.2
+    },
+    "l34": {
+      "Source bus": "b7",
+      "Target bus": "b6",
+      "Reactance (ohms)": 0.004,
+      "Susceptance (S)": 0.01,
+      "Normal flow limit (MW)": 40.2
+    },
+    "l35": {
+      "Source bus": "b6",
+      "Target bus": "b11",
+      "Reactance (ohms)": 0.0198,
+      "Susceptance (S)": 0.042395,
+      "Normal flow limit (MW)": 89.0
+    },
+    "l36": {
+      "Source bus": "b6",
+      "Target bus": "b12",
+      "Reactance (ohms)": 0.01364,
+      "Susceptance (S)": 0.033191,
+      "Normal flow limit (MW)": 58.8
+    },
+    "l37": {
+      "Source bus": "b6",
+      "Target bus": "b12",
+      "Reactance (ohms)": 0.01364,
+      "Susceptance (S)": 0.033191,
+      "Normal flow limit (MW)": 58.8
+    },
+    "l38": {
+      "Source bus": "b7",
+      "Target bus": "b10",
+      "Reactance (ohms)": 0.004,
+      "Susceptance (S)": 0.01,
+      "Normal flow limit (MW)": 50.0
+    },
+    "l39": {
+      "Source bus": "b7",
+      "Target bus": "b13",
+      "Reactance (ohms)": 0.00941,
+      "Susceptance (S)": 0.027706,
+      "Normal flow limit (MW)": 40.2
+    },
+    "l40": {
+      "Source bus": "b7",
+      "Target bus": "b13",
+      "Reactance (ohms)": 0.00941,
+      "Susceptance (S)": 0.027706,
+      "Normal flow limit (MW)": 40.2
+    },
+    "l41": {
+      "Source bus": "b7",
+      "Target bus": "b13",
+      "Reactance (ohms)": 0.00941,
+      "Susceptance (S)": 0.027706,
+      "Normal flow limit (MW)": 40.2
+    },
+    "l42": {
+      "Source bus": "b8",
+      "Target bus": "b15",
+      "Reactance (ohms)": 0.03139,
+      "Susceptance (S)": 0.075848,
+      "Normal flow limit (MW)": 84.9
+    },
+    "l43": {
+      "Source bus": "b8",
+      "Target bus": "b19",
+      "Reactance (ohms)": 0.03699,
+      "Susceptance (S)": 0.102463,
+      "Normal flow limit (MW)": 90.0
+    },
+    "l44": {
+      "Source bus": "b8",
+      "Target bus": "b19",
+      "Reactance (ohms)": 0.03699,
+      "Susceptance (S)": 0.102463,
+      "Normal flow limit (MW)": 90.0
+    },
+    "l45": {
+      "Source bus": "b9",
+      "Target bus": "b10",
+      "Reactance (ohms)": 0.00468,
+      "Susceptance (S)": 0.125654,
+      "Normal flow limit (MW)": 56.2
+    },
+    "l46": {
+      "Source bus": "b9",
+      "Target bus": "b14",
+      "Reactance (ohms)": 0.00933,
+      "Susceptance (S)": 0.037848,
+      "Normal flow limit (MW)": 169.3
+    },
+    "l47": {
+      "Source bus": "b11",
+      "Target bus": "b13",
+      "Reactance (ohms)": 0.01844,
+      "Susceptance (S)": 0.047771,
+      "Normal flow limit (MW)": 45.3
+    },
+    "l48": {
+      "Source bus": "b11",
+      "Target bus": "b15",
+      "Reactance (ohms)": 0.02328,
+      "Susceptance (S)": 0.069221,
+      "Normal flow limit (MW)": 48.6
+    },
+    "l49": {
+      "Source bus": "b12",
+      "Target bus": "b15",
+      "Reactance (ohms)": 0.01511,
+      "Susceptance (S)": 0.041464,
+      "Normal flow limit (MW)": 77.0
+    },
+    "l50": {
+      "Source bus": "b12",
+      "Target bus": "b17",
+      "Reactance (ohms)": 0.02278,
+      "Susceptance (S)": 0.065341,
+      "Normal flow limit (MW)": 49.9
+    },
+    "l51": {
+      "Source bus": "b13",
+      "Target bus": "b16",
+      "Reactance (ohms)": 0.01309,
+      "Susceptance (S)": 0.032547,
+      "Normal flow limit (MW)": 52.0
+    },
+    "l52": {
+      "Source bus": "b14",
+      "Target bus": "b15",
+      "Reactance (ohms)": 0.00325,
+      "Susceptance (S)": 0.131522,
+      "Normal flow limit (MW)": 85.9
+    },
+    "l53": {
+      "Source bus": "b14",
+      "Target bus": "b15",
+      "Reactance (ohms)": 0.00325,
+      "Susceptance (S)": 0.131522,
+      "Normal flow limit (MW)": 85.9
+    },
+    "l54": {
+      "Source bus": "b16",
+      "Target bus": "b18",
+      "Reactance (ohms)": 0.01553,
+      "Susceptance (S)": 0.039228,
+      "Normal flow limit (MW)": 51.7
+    },
+    "l55": {
+      "Source bus": "b17",
+      "Target bus": "b18",
+      "Reactance (ohms)": 0.00984,
+      "Susceptance (S)": 0.029754,
+      "Normal flow limit (MW)": 47.9
+    },
+    "l56": {
+      "Source bus": "b19",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.01258,
+      "Susceptance (S)": 0.030449,
+      "Normal flow limit (MW)": 100.3
+    },
+    "l57": {
+      "Source bus": "b19",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.01258,
+      "Susceptance (S)": 0.030449,
+      "Normal flow limit (MW)": 100.3
+    },
+    "l58": {
+      "Source bus": "b19",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.01258,
+      "Susceptance (S)": 0.030449,
+      "Normal flow limit (MW)": 100.3
+    },
+    "l59": {
+      "Source bus": "b19",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.01258,
+      "Susceptance (S)": 0.030449,
+      "Normal flow limit (MW)": 100.3
+    },
+    "l60": {
+      "Source bus": "b20",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.04266,
+      "Susceptance (S)": 0.074844,
+      "Normal flow limit (MW)": 85.8
+    },
+    "l61": {
+      "Source bus": "b20",
+      "Target bus": "b30",
+      "Reactance (ohms)": 0.0278,
+      "Susceptance (S)": 0.068487,
+      "Normal flow limit (MW)": 64.4
+    },
+    "l62": {
+      "Source bus": "b20",
+      "Target bus": "b32",
+      "Reactance (ohms)": 0.01494,
+      "Susceptance (S)": 0.039916,
+      "Normal flow limit (MW)": 52.0
+    },
+    "l63": {
+      "Source bus": "b22",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.00445,
+      "Susceptance (S)": 0.11658,
+      "Normal flow limit (MW)": 149.6
+    },
+    "l64": {
+      "Source bus": "b22",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.00445,
+      "Susceptance (S)": 0.11658,
+      "Normal flow limit (MW)": 149.6
+    },
+    "l65": {
+      "Source bus": "b22",
+      "Target bus": "b23",
+      "Reactance (ohms)": 0.00445,
+      "Susceptance (S)": 0.11658,
+      "Normal flow limit (MW)": 149.6
+    },
+    "l66": {
+      "Source bus": "b22",
+      "Target bus": "b25",
+      "Reactance (ohms)": 0.00298,
+      "Susceptance (S)": 0.017679,
+      "Normal flow limit (MW)": 277.0
+    },
+    "l67": {
+      "Source bus": "b22",
+      "Target bus": "b37",
+      "Reactance (ohms)": 0.00682,
+      "Susceptance (S)": 0.040841,
+      "Normal flow limit (MW)": 292.9
+    },
+    "l68": {
+      "Source bus": "b23",
+      "Target bus": "b34",
+      "Reactance (ohms)": 0.03014,
+      "Susceptance (S)": 0.09172,
+      "Normal flow limit (MW)": 74.4
+    },
+    "l69": {
+      "Source bus": "b23",
+      "Target bus": "b34",
+      "Reactance (ohms)": 0.03014,
+      "Susceptance (S)": 0.09172,
+      "Normal flow limit (MW)": 74.4
+    },
+    "l70": {
+      "Source bus": "b24",
+      "Target bus": "b26",
+      "Reactance (ohms)": 0.01645,
+      "Susceptance (S)": 0.05348,
+      "Normal flow limit (MW)": 65.6
+    },
+    "l71": {
+      "Source bus": "b24",
+      "Target bus": "b26",
+      "Reactance (ohms)": 0.01645,
+      "Susceptance (S)": 0.05348,
+      "Normal flow limit (MW)": 65.6
+    },
+    "l72": {
+      "Source bus": "b24",
+      "Target bus": "b33",
+      "Reactance (ohms)": 0.0169,
+      "Susceptance (S)": 0.033191,
+      "Normal flow limit (MW)": 69.5
+    },
+    "l73": {
+      "Source bus": "b24",
+      "Target bus": "b36",
+      "Reactance (ohms)": 0.01893,
+      "Susceptance (S)": 0.037551,
+      "Normal flow limit (MW)": 48.7
+    },
+    "l74": {
+      "Source bus": "b25",
+      "Target bus": "b26",
+      "Reactance (ohms)": 0.00532,
+      "Susceptance (S)": 0.147265,
+      "Normal flow limit (MW)": 131.7
+    },
+    "l75": {
+      "Source bus": "b25",
+      "Target bus": "b26",
+      "Reactance (ohms)": 0.00532,
+      "Susceptance (S)": 0.147265,
+      "Normal flow limit (MW)": 131.7
+    },
+    "l76": {
+      "Source bus": "b25",
+      "Target bus": "b35",
+      "Reactance (ohms)": 0.00413,
+      "Susceptance (S)": 0.02442,
+      "Normal flow limit (MW)": 201.4
+    },
+    "l77": {
+      "Source bus": "b25",
+      "Target bus": "b35",
+      "Reactance (ohms)": 0.00413,
+      "Susceptance (S)": 0.02442,
+      "Normal flow limit (MW)": 201.4
+    },
+    "l78": {
+      "Source bus": "b25",
+      "Target bus": "b37",
+      "Reactance (ohms)": 0.00489,
+      "Susceptance (S)": 0.026145,
+      "Normal flow limit (MW)": 224.0
+    },
+    "l79": {
+      "Source bus": "b25",
+      "Target bus": "b37",
+      "Reactance (ohms)": 0.00489,
+      "Susceptance (S)": 0.026145,
+      "Normal flow limit (MW)": 224.0
+    },
+    "l80": {
+      "Source bus": "b27",
+      "Target bus": "b29",
+      "Reactance (ohms)": 0.02388,
+      "Susceptance (S)": 0.042832,
+      "Normal flow limit (MW)": 67.5
+    },
+    "l81": {
+      "Source bus": "b28",
+      "Target bus": "b30",
+      "Reactance (ohms)": 0.0112,
+      "Susceptance (S)": 0.031396,
+      "Normal flow limit (MW)": 70.0
+    },
+    "l82": {
+      "Source bus": "b28",
+      "Target bus": "b30",
+      "Reactance (ohms)": 0.0112,
+      "Susceptance (S)": 0.031396,
+      "Normal flow limit (MW)": 70.0
+    },
+    "l83": {
+      "Source bus": "b28",
+      "Target bus": "b31",
+      "Reactance (ohms)": 0.05107,
+      "Susceptance (S)": 0.104683,
+      "Normal flow limit (MW)": 58.3
+    },
+    "l84": {
+      "Source bus": "b29",
+      "Target bus": "b30",
+      "Reactance (ohms)": 0.01479,
+      "Susceptance (S)": 0.036656,
+      "Normal flow limit (MW)": 49.3
+    },
+    "l85": {
+      "Source bus": "b29",
+      "Target bus": "b32",
+      "Reactance (ohms)": 0.02315,
+      "Susceptance (S)": 0.061347,
+      "Normal flow limit (MW)": 60.0
+    },
+    "l86": {
+      "Source bus": "b31",
+      "Target bus": "b33",
+      "Reactance (ohms)": 0.02696,
+      "Susceptance (S)": 0.057612,
+      "Normal flow limit (MW)": 38.0
+    },
+    "l87": {
+      "Source bus": "b33",
+      "Target bus": "b34",
+      "Reactance (ohms)": 0.03528,
+      "Susceptance (S)": 0.083927,
+      "Normal flow limit (MW)": 84.3
+    },
+    "l88": {
+      "Source bus": "b33",
+      "Target bus": "b34",
+      "Reactance (ohms)": 0.03528,
+      "Susceptance (S)": 0.083927,
+      "Normal flow limit (MW)": 84.3
+    },
+    "l89": {
+      "Source bus": "b35",
+      "Target bus": "b37",
+      "Reactance (ohms)": 0.00152,
+      "Susceptance (S)": 0.008374,
+      "Normal flow limit (MW)": 297.6
+    }
+  },
+  "Generators": {
+    "kahe_oil": {
+      "Bus": "b37",
+      "Fuel type": "Oil", 
+      "Cost curve coefficients": [0.0342, 150, 0.0],
+      "Cost curve coefficients (halved)": [0.02, 51.5, 0.0],
+      "Maximum production (MW)": 650
+    }, 
+    "kalaeloa_oil": {
+      "Bus": "b35",
+      "Fuel type": "Oil", 
+      "Cost curve coefficients": [0.015, 205.3, 0.0],
+      "Cost curve coefficients (halved)": [0.0059, 100, 0.0],
+      "Maximum production (MW)": 208
+    }, 
+    "schofield_bio": {
+      "Bus": "b34",
+      "Fuel type": "Bio", 
+      "Cost curve coefficients": [0.001, 49.08, 0.0],
+      "Maximum production (MW)": 50
+    }, 
+    "waiau_oil": {
+      "Bus": "b19",
+      "Fuel type": "Oil", 
+      "Cost curve coefficients": [0.0059, 233, 0.0],
+      "Cost curve coefficients (halved)": [0.02, 91.5, 0.0],
+      "Maximum production (MW)": 500
+    }, 
+    "kapolei_oil": {
+      "Bus": "b24",
+      "Fuel type": "Oil", 
+      "Cost curve coefficients": [0.025, 177.7, 0.0],
+      "Cost curve coefficients (halved)": [0.0342, 70, 0.0],
+      "Maximum production (MW)": 130
+    },
+    "kapolei_waste": {
+      "Bus": "b24",
+      "Fuel type": "Bio", 
+      "Cost curve coefficients": [0.002, 32.7, 0.0],
+      "Maximum production (MW)": 68.5
+    },
+    "kailua_wind": {
+      "Bus": "b14",
+      "Fuel type": "Wind", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 69
+    },
+    "kailua_solar": {
+      "Bus": "b15",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 49
+    },
+    "waipio": {
+      "Bus": "b19",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 45.9
+    },
+    "mililani_solar": {
+      "Bus": "b20",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 39
+    },
+    "waihonu_south": {
+      "Bus": "b20",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 1.5
+    },
+    "waihonu_north": {
+      "Bus": "b20",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 5
+    },
+    "mauka_fit": {
+      "Bus": "b20",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 3.5
+    },
+    "lanikuhana": {
+      "Bus": "b20",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 14.7
+    },
+    "west_loch": {
+      "Bus": "b22",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 20
+    },
+    "kapolei_solar": {
+      "Bus": "b24",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 1
+    },
+    "island_energy": {
+      "Bus": "b24",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 9.6
+    },
+    "par": {
+      "Bus": "b24",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 18.5
+    },
+    "kahuku_wind": {
+      "Bus": "b27",
+      "Fuel type": "Wind", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 30
+    },
+    "na_pua": {
+      "Bus": "b27",
+      "Fuel type": "Wind", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 24
+    },
+    "wahiawa_solar": {
+      "Bus": "b30",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 36
+    },
+    "waianae_solar": {
+      "Bus": "b33",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 27.6
+    },
+    "aloha_fund_one": {
+      "Bus": "b1",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 5
+    },
+    "solar_two": {
+      "Bus": "b35",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 5
+    },
+    "renewable_energy_park": {
+      "Bus": "b35",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 5
+    },
+    "aloha_fund_two": {
+      "Bus": "b2",
+      "Fuel type": "Solar", 
+      "Cost curve coefficients": [0.0],
+      "Maximum production (MW)": 5
+    }
+  }
+}

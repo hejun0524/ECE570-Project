@@ -1,0 +1,90 @@
+{
+  "Net demand (prosumer)": {
+    "Parameters": {
+      "Total time (d)": 1,
+      "Time step (h)": 2
+    },
+    "Data": [
+      0.57,
+      0.55,
+      0.56,
+      0.61,
+      0.68,
+      0.67,
+      0.66,
+      0.69,
+      0.72,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  "Net demand (consumer)": {
+    "Parameters": {
+      "Total time (d)": 1,
+      "Time step (h)": 2
+    },
+    "Data": [
+      0.6,
+      0.47,
+      0.47,
+      0.75,
+      0.88,
+      0.9,
+      0.95,
+      0.95,
+      1.02,
+      1.02,
+      0.93,
+      0.75
+    ]
+  },
+  "Renewable energy (solar)": {
+    "Parameters": {
+      "Total time (d)": 1,
+      "Time step (h)": 2,
+      "Noise bounds": [
+        0.8,
+        1.2
+      ]
+    },
+    "Data": [
+      0.0,
+      0.0,
+      0.0,
+      0.12,
+      0.53,
+      0.88,
+      0.97,
+      0.76,
+      0.33,
+      0.03,
+      0.0,
+      0.0
+    ]
+  },
+  "Renewable energy (wind)": {
+    "Parameters": {
+      "Total time (d)": 1,
+      "Time step (h)": 2,
+      "Noise bounds": [
+        0.5,
+        1.5
+      ]
+    },
+    "Data": [
+      0.38,
+      0.36,
+      0.35,
+      0.35,
+      0.36,
+      0.38,
+      0.38,
+      0.38,
+      0.38,
+      0.37,
+      0.37,
+      0.38
+    ]
+  }
+}
